@@ -4,6 +4,7 @@
  *
  */
 
+
 $lang['sidebar_sections']   = 'Attiva/disattiva la barra laterale nelle sezioni su questi elementi:';
 $lang['sidebar_sections_o_h1']   = 'Intestazioni di primo ordine';
 $lang['sidebar_sections_o_h1,h2']   = 'Intestazioni di primo e secondo ordine';
