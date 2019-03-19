@@ -1,6 +1,6 @@
 <?php
 /**
- * File di lingua Italiana per il template
+ * Italian language file for template
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
